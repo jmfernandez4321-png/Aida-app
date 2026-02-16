@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AIDA - Asistente Inteligente de Agenda",
+  "description": "Una agenda académica inteligente para estudiantes del Colegio Los Próceres, con gestión de evaluaciones, monitoreo de notas, calendario de feriados y un chatbot educativo avanzado.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
